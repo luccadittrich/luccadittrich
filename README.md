@@ -48,7 +48,6 @@
 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> 
 
-  <img src="https://logotyp.us/file/salesforce.svg" alt="salesforce" width="80" height="50"/>
 </div>
 
 ###
