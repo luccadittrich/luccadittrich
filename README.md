@@ -44,7 +44,7 @@
 
 - 📧 Email: **lucca.dittrich@gmail.com**
 - 💬 LinkedIn: [linkedin.com/in/luccadittrich](https://linkedin.com/in/luccadittrich)
-- 📞 Phone / WhatsApp: [wa.me/5511988445241](https://wa.me/5511988445241)
+- 📞 Phone / WhatsApp: +55 (11) 98844-5241 [wa.me/5511988445241](https://wa.me/5511988445241)
 
 ---
 
